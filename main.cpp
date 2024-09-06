@@ -1,6 +1,4 @@
 // Kenny Le
-// PA3
-// DUE: 4/29/2024
 
 #include <iostream>
 #include <iomanip>
